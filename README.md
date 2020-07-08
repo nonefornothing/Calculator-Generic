@@ -12,9 +12,9 @@ This project is Calculator App with 2 input (float data type) , with input and o
 Feature :
 1. accept 2 number as input .
 2. available operations are addition, subtraction, multiplication and division.
-3. output proper 
-   for example : 1) 3.2 + 3.5 = 6.7
-                 2) 3.5 + 3.5 = 7
+3. output proper. 
+   for example : (1) 3.2 + 3.5 = 6.7
+                 (2) 3.5 + 3.5 = 7
 4. implement try and catch method to accept only proper input.
 5. only exit from application by choose menu in application
 
