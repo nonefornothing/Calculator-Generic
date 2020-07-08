@@ -1,5 +1,5 @@
 # Calculator-Generic
-Calculator with input data type can be float &amp; integer using generic function
+Calculator with output data type can be float &amp; integer using generic function
 
 ## Table of contents
 * [General info](#general-info)
