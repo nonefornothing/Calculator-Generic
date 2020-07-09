@@ -16,7 +16,7 @@ Feature :
 
    for example : 
    
-   	(1) 3.2 + 3.5 = 6.7 (return int)
+   	(1) 3.2 + 3.5 = 6.7 (return float)
    
    	(2) 3.5 + 3.5 = 7 (return int)
 4. implement try and catch method to accept only proper input.
