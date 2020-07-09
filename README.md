@@ -9,7 +9,7 @@ Calculator with output data type can be float &amp; integer using generic functi
 ## General info
 This project is Calculator App with 2 input (float data type) , with input and output from console.
 
-Feature :
+Design program :
 1. accept 2 number as input .
 2. available operations are addition, subtraction, multiplication and division.
 3. output proper.
